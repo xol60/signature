@@ -10,10 +10,10 @@ const ProductData = [
         title: " Mã nguồn", link: "https://drive.google.com/file/d/1p11ikCNimpnkcgEaWEuz6hSaedp66q7n/view?usp=drive_link"
     },
     {
-        title: "Poster bảo vệ", link: "https://drive.google.com/file/d/1KqrfaMgW1vY_L8U5OtM4zCiKFY2XWet1/view?usp=drive_link"
+        title: "Poster bảo vệ", link: "https://drive.google.com/file/d/18UrH1eqWt0aAl7mqvH7NeQqT1Sg5fAGx/view?usp=drive_link"
     },
     {
-        title: "Luận văn:", link: "ttps://drive.google.com/file/d/1244_otPbDfGKpfq3fpV_PL9L5EHzye65/view?usp=drive_link"
+        title: "Luận văn:", link: "https://drive.google.com/file/d/15147GKO8PwNccZPAfIo9wynNQVtrRWtB/view?usp=drive_link"
     },
     {
         title: "Đề Cương:", link: "https://drive.google.com/file/d/1N5ivxAuKJHdShpvIMl6nj4N9PJFo0I6q/view?usp=drive_link"

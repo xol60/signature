@@ -140,6 +140,12 @@ const WeeksData = [
         { title: "Thực hiện đánh giá phần mềm", link: "https://docs.google.com/spreadsheets/d/1eWAcdq4M_P5R3z6PrwRQkbYfJ6Qnn2330rUb8hYxJ8I/edit?usp=drive_link" },
         { title: "Thực hiện đánh giá báo cáo", link: "https://docs.google.com/spreadsheets/d/1PTTOdku3GjHnSQbhcxJgU1OaU2pd-Gg1e2kVbfxs9_A/edit?usp=drive_link" },
         { title: "Hoàn thiện CD nộp cho thầy hướng dẫn", link: "https://drive.google.com/drive/folders/1YmCn_JVWLFPpNGLzCLdSyrwivy6omfcY?usp=drive_link" }]
+    },
+    {
+        time: "Tuần 24", data: [
+            { title: "Cập nhật báo cáo theo Giảng viên hướng dẫn và Giảng viên phản biện", link: "https://drive.google.com/file/d/15147GKO8PwNccZPAfIo9wynNQVtrRWtB/view?usp=drive_link" },
+            { title: "Cập nhật poster theo Giảng viên hướng dẫn và Giảng viên phản biện", link: "https://drive.google.com/file/d/18UrH1eqWt0aAl7mqvH7NeQqT1Sg5fAGx/view?usp=drive_link" },
+            { title: "Cập nhật CD theo Giảng viên hướng dẫn", link: "https://drive.google.com/drive/folders/1YmCn_JVWLFPpNGLzCLdSyrwivy6omfcY?usp=drive_link" }]
     }
 ]
 export default WeeksData
