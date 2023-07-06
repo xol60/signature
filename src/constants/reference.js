@@ -10,11 +10,11 @@ const ReferenceData = [
     },
 
     {
-        title: "Github:"
+        title: "Github"
     },
     { title: "Server:", link: "https://github.com/nuno314/protee-be" },
     {
-        title: "Portal:", link: "https://github.com/nuno314/protee-portal"
+        title: "Portal:", link: "https://github.com/xol60/admin-protee"
     },
     { title: "Mobile:", link: " https://github.com/nuno314/protee-mobile" }
 ]
